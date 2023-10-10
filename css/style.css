@@ -1,0 +1,77 @@
+
+
+  
+  .title{
+    margin-top: 3px;
+    margin-bottom: 3px;
+    margin-right: 186.500px;
+    margin-left: 186.500px;
+  }
+  
+  .web-header {
+    font-family: "field-gothic-condensed", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+  
+    /* .img-align {
+  float: right;
+      object-position: -20% 0;
+      padding-bottom: 20px; display: block; border: none
+  }*/
+  
+  .img-align{ position: relative;
+       object-fit: cover;
+      object-position: 50% 101.66911053657532%;
+    top: 50%;
+   left: 50%;
+   margin-top: -540px;
+   margin-left: -15px;
+   height: 1340px;
+   width: 660px;
+  
+  }
+  
+  
+  /*
+  .imgplacement{
+    object-fit: cover;
+    object-position: 50% 101.66911053657532%;
+        width: 100vw;
+      height: 100vh;
+    vertical-align: top;
+        aspect-ratio: auto 600 / 917;
+  } 
+  */
+  .figcap{
+     text-align: right;
+         font-family: nyt-kippenberger,helvetica,arial,sans-serif;
+      font-weight: 400;
+  }
+    h3{
+    max-width:60ch;  
+    }
+
+    .container {
+     display: flex;
+      flex-direction: column;
+      display: flex;
+    text-align: center;
+    object-fit: cover;
+    }
+    
+     .body-text{
+      
+      text-align: justify;
+      text-justify: inter-word;
+      text-align: center;
+      margin-left: 500px;
+      margin-right: 500px;
+
+     }
+   
+    
+     
+    /*head{
+      align-content: center;
+    }*/
